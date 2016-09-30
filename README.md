@@ -22,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-1. Testing
-2. Testing 2
-3. Testing 3  
